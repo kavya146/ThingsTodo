@@ -1,0 +1,14 @@
+.head-style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-style{
+    color: black;
+    border-radius: 5px;
+    border-color: royalblue;
+    border-style: groove;
+    
+}
